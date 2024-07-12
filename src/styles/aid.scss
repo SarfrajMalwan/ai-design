@@ -1,0 +1,219 @@
+
+
+.body-section{
+
+   
+   
+
+        .navbar{
+
+            #name{
+              span1{
+                color: rgb(37, 37, 169);
+              }
+
+             
+            }
+
+            #ai{
+                background-color: red;
+                border-radius: 50px;
+                width: 40px;
+                text-align: center;
+                color: white;
+                
+              }
+
+            ul{
+                display: flex;
+                padding-left: 850px;
+                li{
+                    margin: 10px;
+                 
+                    border-radius: 15px;
+                    list-style-type: none;
+                    
+                    #a{
+                        background-color: red;
+                        border-radius: 15px;
+                        color: white;
+
+                    }
+
+                    #b{
+                        background-color: white;
+                        border-radius: 15px;
+                    }
+
+                    #c{
+                        background-color: white;
+                        border-radius: 15px;
+                    }
+
+                    #d{
+                        background-color: white;
+                        border-radius: 15px;
+                    }
+
+                    #e{
+                        background-color: red;
+                        border-radius: 15px;
+                    }
+
+                    
+                a{
+                    text-decoration: none;
+                    font-weight: 500;
+                    padding: 5px;
+                    color: black;
+                   
+                   
+//background-color: red;
+                    border-radius: 10px;
+                    width: 50px;
+                } 
+                }
+            }
+        }
+
+        .container{
+
+            .title{
+              // background-color: aqua;
+               display: flex;
+             align-items: center;
+               justify-content: center;
+              // padding-top: 30px;
+               height: 200px;
+               text-align: center;
+               
+              
+               
+            
+                h1{
+                    font-weight: 700;
+                    span{
+                        
+                        color: red;
+                        
+                    }
+                    
+                    
+                }
+
+            }
+
+            .search-bar{
+
+               display: flex;
+               align-items: center;
+               justify-content: center;
+               width: 100%;
+              
+                form{
+                     .input-field{
+                       // background-color: aqua;
+                        width: 700px;
+                        height: 70px;
+                        display: flex;
+                        border-radius: 25px;
+                        border: 1px solid red;
+                        
+                        input{
+                           
+                            width: 75%;
+                         background-color: transparent;
+                      border: 0;
+                       outline: 0;
+                            border-radius: 25px;
+                            color: white;
+                        }
+
+                        .icons{
+                            display: flex;
+                            align-items: center;
+                            font-size: 2rem;
+                            span{
+                                
+                               // border: 1px solid black;
+                                // width: 100px;
+                                // height: 60px;
+                                font-size: 4rem;
+                               
+                            }
+
+                            i{
+                                margin-left: 15px;
+                            }
+                            
+                        }
+                     }
+                }
+            }
+        }
+
+        .footer{
+           
+
+                ul{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    li{
+                        margin: 10px;
+                    
+                        border-radius: 15px;
+                        list-style-type: none;
+
+                        #f{
+                            background-color: red;
+                            border-radius: 15px;
+                            color: white;
+                        }
+
+                        #g{
+                            background-color: black;
+                            border-radius: 15px;
+                            color: white;
+                        }
+
+                        #h{
+                            background-color: black;
+                            border-radius: 15px;
+                            color: white;
+
+                        }
+
+                        #i{
+                            background-color: black;
+                            border-radius: 15px;
+                            color: white;
+
+                        }
+    
+                        #j{
+                            background-color: black;
+                            border-radius: 15px;
+                            color: white;
+
+                        }
+    
+    
+                        
+                    a{
+                        text-decoration: none;
+                        font-weight: 500;
+                        padding: 5px;
+                        color: black;
+                       
+                       
+    //background-color: red;
+                        border-radius: 10px;
+                        width: 50px;
+                    } 
+                    }
+                }
+
+            }
+        }
+    

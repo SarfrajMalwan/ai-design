@@ -1,0 +1,78 @@
+
+.navbar{
+
+    #name{
+      span1{
+        color: rgb(37, 37, 169);
+      }
+
+     
+    }
+
+    #ai{
+        background-color: red;
+        border-radius: 50px;
+        width: 40px;
+        text-align: center;
+        color: white;
+        
+      }
+
+    ul{
+        display: flex;
+        padding-left: 850px;
+
+
+        
+
+
+        li{
+            margin: 10px;
+         // border: 1px solid black;
+            border-radius: 15px;
+            list-style-type: none;
+
+
+            #a{
+                background-color: red;
+                border-radius: 15px;
+                color: white;
+
+            }
+
+            #b{
+                background-color: white;
+                border-radius: 15px;
+            }
+
+            #c{
+                background-color: white;
+                border-radius: 15px;
+            }
+
+            #d{
+                background-color: white;
+                border-radius: 15px;
+            }
+
+            #e{
+                background-color: red;
+                border-radius: 15px;
+            }
+            
+
+            
+        a{
+            text-decoration: none;
+            font-weight: 500;
+            padding: 5px;
+            color: black;
+           
+           
+//background-color: red;
+            border-radius: 10px;
+            width: 50px;
+        } 
+        }
+    }
+}
